@@ -1,0 +1,16 @@
+{
+  "name": "clone-spotify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tailwindcss -i styles.css -o src/css/styles.css -w",
+    "build": "tailwindcss -i styles.css -o src/css/styles.css --minify"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
