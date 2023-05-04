@@ -4,7 +4,7 @@ Um clone da página do Spotify feito com [Tailwind CSS](https://tailwindcss.com/
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Dev Soutinho Labs**
+| :sparkles: Nome        | **Clone Spotify**
 | :label: Tecnologias | HMTL, CSS, TailwindCSS
 | :rocket: URL         | [Clone Spotify](https://clone-spotify-p6nrla0sl-matheusgondra.vercel.app/)
 
